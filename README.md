@@ -18,3 +18,36 @@ https://slash.fi/
 
 https://cute-legend-nft.vercel.app/
 
+## CMS Projects
+https://edu.umch.de/
+
+https://www.benirugs.com/
+
+https://www.dsanddurga.com/
+
+https://www.advateklighting.com/
+
+## Frontend
+https://digitalheroes.vercel.app/
+
+https://holygrails.io/
+
+## Vue + Fast API
+https://chemican.com/en/corporate
+
+## Shopify
+https://vitachipus.com/
+
+https://emf-harmony.eu/
+
+https://airestech.com/
+
+https://best-carwash.myshopify.com/
+
+## MERN
+https://ticket-system.umch.de:5000/
+
+https://qr.best-gutschein.de/
+
+
+
