@@ -1,8 +1,8 @@
 # work_history
 
 ## NFT Marketplaces
-https://x2y2.io/  Next.js
+https://x2y2.io/  
 
-https://looksrare.org/  React.js
+https://looksrare.org/  
 
-https://mintable.com/ Next.js
+https://mintable.com/ 
