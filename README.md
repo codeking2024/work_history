@@ -1,5 +1,8 @@
 # work_history
 
+## Social App
+https://www.twitch.tv/
+
 ## Project Management System
 https://www.atlassian.com/
 
@@ -14,6 +17,10 @@ https://looksrare.org/
 https://mintable.com/ 
 
 ## Blockchain Projects
+https://sequence.xyz/
+
+https://status.app/
+
 https://kolscan.io/
 
 https://www.metalabz.gg/
@@ -48,6 +55,8 @@ https://www.periscope.tv/
 
 https://www.teslamotors.com/
 
+https://evervault.com/
+
 ## Vue + Fast API
 https://chemican.com/en/corporate
 
@@ -64,6 +73,8 @@ https://best-carwash.myshopify.com/
 https://ticket-system.umch.de:5000/
 
 https://qr.best-gutschein.de/
+
+https://resend.com/
 
 
 
