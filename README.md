@@ -8,6 +8,8 @@ https://looksrare.org/
 https://mintable.com/ 
 
 ## Blockchain Projects
+https://kolscan.io/
+
 https://www.metalabz.gg/
 
 https://hirevise.com/
