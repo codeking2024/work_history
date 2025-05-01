@@ -37,6 +37,8 @@ https://digitalheroes.vercel.app/
 
 https://holygrails.io/
 
+https://www.khanacademy.org/
+
 ## Vue + Fast API
 https://chemican.com/en/corporate
 
