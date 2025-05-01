@@ -36,6 +36,21 @@ https://slash.fi/
 https://cute-legend-nft.vercel.app/
 
 ## CMS Projects
+### WP
+https://www.bulletproof.com/
+
+https://shop.myeq.com/
+
+https://securitytrainingcenter.com/
+
+https://www.orbitfab.com/
+
+https://extensishr.com/
+
+https://engagedly.com/
+
+https://bayone.com/
+
 https://edu.umch.de/
 
 https://www.benirugs.com/
