@@ -17,6 +17,8 @@ https://looksrare.org/
 https://mintable.com/ 
 
 ## Blockchain Projects
+https://sougen.co/
+
 https://sequence.xyz/
 
 https://status.app/
