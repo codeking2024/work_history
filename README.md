@@ -20,6 +20,7 @@ https://looksrare.org/
 https://mintable.com/ 
 
 ## Blockchain Projects
+https://pump.fun/board
 https://sougen.co/
 
 https://sequence.xyz/
