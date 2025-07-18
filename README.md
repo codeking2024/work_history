@@ -1,5 +1,13 @@
 # work_history
 
+## Vue/NUXT
+
+https://eu.louisvuitton.com/eng-e1/homepage
+
+https://www.virgingalactic.com/
+
+https://www.hostelworld.com/ 
+
 ## AI
 https://tilesview.ai/
 
