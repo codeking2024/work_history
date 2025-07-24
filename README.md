@@ -1,5 +1,12 @@
 # work_history
 
+## Travelling Websites
+https://www.viator.com/
+
+https://www.thebooktrail.com/
+
+https://tucan.travel/
+
 ## Vue/NUXT
 
 https://eu.louisvuitton.com/eng-e1/homepage
