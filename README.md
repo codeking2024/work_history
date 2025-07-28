@@ -7,6 +7,14 @@ https://www.thebooktrail.com/
 
 https://tucan.travel/
 
+https://travelshift.com/
+
+https://www.earth-ocean.com/
+
+https://www.adamsandbutler.com/
+
+https://www.theglobalnomad.info/home
+
 ## Vue/NUXT
 
 https://eu.louisvuitton.com/eng-e1/homepage
