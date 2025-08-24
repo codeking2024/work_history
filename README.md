@@ -42,7 +42,6 @@ https://Octavius.ai
 
 https://Smith.ai
 
-https://Conversica
 
 ## Social App
 https://www.twitch.tv/
