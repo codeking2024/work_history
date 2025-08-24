@@ -37,6 +37,9 @@ https://www.chargebee.com/
 
 ## AI
 https://tilesview.ai/
+https://Octavius.ai
+https://Smith.ai
+https://Conversica
 
 ## Social App
 https://www.twitch.tv/
