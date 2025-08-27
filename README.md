@@ -116,6 +116,10 @@ https://www.periscope.tv/
 
 https://www.teslamotors.com/
 
+### NextJs
+
+https://edu.umch.de/
+
 https://evervault.com/
 
 ## Vue + Fast API
